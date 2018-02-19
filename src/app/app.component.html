@@ -1,0 +1,14 @@
+<ul>
+  <!--  src="assets/rvlogo.png" -->
+  <li  *ngFor="let job of _jobsArray"><br> <div><img class="comlogo" src="{{job.image}}"></div> <b>{{job.jobtitle}} @ {{job.company}} </b><br>
+    <br>
+
+  
+    <span class="glyphicon glyphicon-map-marker"></span> {{job.location}} 
+    <span class="glyphicon glyphicon-time"></span> {{job.type}} 
+   <!-- <span class="glyphicon glyphicon-usd"></span> {{job.salary}} -->
+    <i class="fa fa-money"></i> {{job.salary}} 
+    <span class="glyphicon glyphicon-tags"></span> {{job.department}} 
+    <button class="jobApplybtn" type="button">Apply now</button>
+  </li>
+</ul>

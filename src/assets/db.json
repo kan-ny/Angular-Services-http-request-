@@ -1,0 +1,63 @@
+{
+"brand":[
+ {				"id":1,
+            "name":"puma",
+              "year":"2004",
+  "rating":10,
+              "type":"cricket"
+  
+			  
+ },
+  {				"id":2,
+            "name":"adidas",
+              "year":"2008",
+  "rating":9,
+              "type":"football"
+  
+			  
+ },
+	 {				"id":3,
+            "name":"nikee",
+              "year":"2007",
+  "rating":9,
+              "type":"running"
+  
+			  
+ },
+
+	 {				"id":4,
+            "name":"asics",
+              "year":"2000",
+  "rating":6,
+              "type":"basketball"
+  
+			  
+ },
+	 {				"id":5,
+            "name":"reebok",
+              "year":"2001",
+  "rating":8,
+              "type":"cycling"
+  
+			  
+ },
+
+	 {				"id":6,
+            "name":"underarmor",
+              "year":"2010",
+  "rating":5,
+              "type":"swimming"
+  
+			  
+ }, 
+ {				"id":7,
+  "name":"jbl",
+    "year":"2015",
+"rating":8,
+    "type":"Speaker"
+
+
+}
+  ]
+
+}

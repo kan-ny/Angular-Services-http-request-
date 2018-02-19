@@ -1,0 +1,29 @@
+
+    ul{
+
+            list-style-type: none;
+            clear: left;
+    }
+li{
+    margin: 30px; border:10px solid #ffaa22;padding:10px; clear:left;
+         }
+
+         .jobApplybtn{
+             float: right;
+         }
+         .comlogo{
+             margin-left: 5px;
+             margin-right: 5px;
+             float: left;
+             width: 70px;
+             height:60px;
+         }
+
+
+         table, th, td {
+            border:solid 1px #DDD;
+            padding:3px;
+            font:14px Verdana;
+            text-align:center;
+        }
+        th {font-weight:bold;}
